@@ -1,1 +1,0 @@
-I created homepage menu with animation using only html & css (no javascript).

@@ -2,7 +2,7 @@ This repository includes my front-end project usign html, css, javascript.
 
 This is a current list of my projects.
 
-- homepage menu(2020. 4. 11)
+- homepage menu with overlay animation(2020. 4. 11)
 
 - calculator (2020. 4. 10)
 
